@@ -225,3 +225,4 @@ RunService.RenderStepped:Connect(function()
 		myRoot.AssemblyAngularVelocity = Vector3.zero
 	end
 end)
+print("executed")
